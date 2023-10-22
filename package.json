@@ -1,0 +1,46 @@
+{
+  "dependencies": {
+    "@carbon/charts-react": "^1.13.6",
+    "@devexpress/dx-react-chart": "^4.0.5",
+    "@devexpress/dx-react-chart-material-ui": "^4.0.5",
+    "@emotion/react": "latest",
+    "@emotion/styled": "latest",
+    "@mui/icons-material": "^5.14.13",
+    "@mui/material": "latest",
+    "@pmmmwh/react-refresh-webpack-plugin": "^0.5.11",
+    "chartjs-plugin-datalabels": "^2.2.0",
+    "react": "^18.2.0",
+    "react-apexcharts": "^1.4.1",
+    "react-dom": "^18.2.0",
+    "react-icons": "^4.11.0",
+    "react-pro-sidebar": "1.0.0-alpha.10",
+    "react-router": "^6.16.0",
+    "react-router-dom": "^6.16.0",
+    "yargs": "^17.7.2"
+  },
+  "description": "https://github.com/mui/material-ui/blob/v5.14.4/docs/data/material/components/breadcrumbs/CustomSeparator.js",
+  "devDependencies": {
+    "react-scripts": "^5.0.1"
+  },
+  "keywords": [],
+  "name": "sidebar",
+  "version": "0.0.6",
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test --env=jsdom",
+    "eject": "react-scripts eject"
+  },
+  "browserslist": {
+    "production": [
+      ">0.2%",
+      "not dead",
+      "not op_mini all"
+    ],
+    "development": [
+      "last 1 chrome version",
+      "last 1 firefox version",
+      "last 1 safari version"
+    ]
+  }
+}
